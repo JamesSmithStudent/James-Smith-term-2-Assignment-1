@@ -1,0 +1,213 @@
+.head{
+    width: 100%;
+    height: 80px;
+    background-color: #333333;
+}
+
+.sec1{
+    width: 100%;
+    height: 400px;
+    background-color: aliceblue;
+}
+
+.sec2{
+    width: 100%;
+    height: 1000px;
+    background-color: white;
+}
+
+.foot{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+.logo{
+    float: left;
+    color: white;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.navbar{
+    float: left;
+}
+
+.bar{
+    float: left;
+    list-style: none;
+}
+
+.list{
+    float: left;
+    color: white;
+    margin-right: 20px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.list2{
+    float: left;
+    color: lightgray;
+    margin-right: 20px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.list3{
+    float: left;
+    color: lightgray;
+    margin-right: 20px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.list4{
+    float: left;
+    color: lightgray;
+    margin-right: 20px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.search{
+    float: right;
+    width: 200px;
+    height: 25px;
+    background-color: white;
+    color: gray;
+    border-radius: 5px;
+    border: solid white 5px;
+    margin-left: 200px;
+    padding-bottom: 25px;
+    text-align: left;
+}
+
+.sb{
+    float: right;
+    height: 25px;
+    background-color: #333333;
+    border: solid green 2px;
+    color: green;
+    padding-bottom: 30px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.front{
+    margin-left: 20%;
+    padding-top: 100px;
+}
+
+.xmen{
+    margin-left: 20%;
+    padding-top: 10px;
+}
+
+.line{
+    margin-left: 20%;
+    height: 1px;
+    width: 50%;
+    background-color: gray;
+    margin-top: 10px;
+}
+
+.offer{
+    margin-left: 20%;
+    padding-top: 10px;
+}
+
+.UX{
+    float: left;
+    margin-left: 20%;
+    background-color: blue;
+    color: white;
+   border-radius: 5px;
+   border: solid blue 2px;
+   margin-right: 20px;
+}
+
+.develop{
+    float: left;  
+   background-color: green;
+    color: white;
+   border-radius: 5px;
+   border: solid green 2px;
+   margin-right: 20px;
+}
+
+.product{
+    float: left;  
+    background-color: red;
+     color: white;
+    border-radius: 5px;
+    border: solid red 2px;
+    margin-right: 20px;
+}
+
+.div1{
+    width: 20%;
+    height: 200px;
+    margin-left: 15%;
+    background-color: black;
+    float: left;
+    margin-top: 50px;
+    border: solid black 1px;
+}
+
+.div2{
+    width: 20%;
+    height: 200px;
+    margin-left: 5%;
+    background-color: black;
+    float: left;
+    margin-top: 50px;
+    border: solid black 1px;
+}
+
+.div3{
+    width: 20%;
+    height: 200px;
+    margin-left: 5%;
+    background-color: black;
+    margin-right: 20px;
+    float: left;
+    margin-top: 50px;
+    border: solid black 1px;
+}
+
+.div11{
+    width: 20%;
+    height: 200px;
+    margin-left: 15%;
+    background-color: white;
+    float: left;
+    margin-top: 0px;
+    border: solid black 1px;
+}
+
+.div12{
+    width: 20%;
+    height: 200px;
+    margin-left: 5%;
+    background-color: white;
+    float: left;
+    margin-top: 0px;
+    border: solid black 1px;
+}
+
+.div13{
+    width: 20%;
+    height: 200px;
+    margin-left: 5%;
+    background-color: white;
+    float: left;
+    margin-top: 0px;
+    border: solid black 1px;
+}
+
+footer{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}

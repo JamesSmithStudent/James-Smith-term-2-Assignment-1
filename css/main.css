@@ -211,3 +211,55 @@ footer{
     padding-top: 20px;
     color: white;
 }
+
+.photo{
+    width: 50%;
+    height: 500px;
+    background-color: white;
+    float: left;
+    margin-top: 100px;
+}
+
+.sign-up{
+width: 50%;
+height: 500px;
+float: left;
+background-color:white;
+margin-top: 100px;
+}
+
+.s{
+    margin-left: 220px;
+    color: black;
+}
+
+.g{
+    margin-left: 50px;
+    color: black;
+}
+
+.form{
+    float: vertical;
+    margin-left: 30%;
+    margin-bottom: 20px;
+    margin-right: 60%;
+    
+}
+
+.form2{
+    margin-left: 30%;
+    float: vertical;
+}
+
+.spam{
+    float: right;
+    margin-right: 40%;
+}
+
+.register{
+    color: white;
+    background-color: blue;
+    margin-left: 30%;
+    border-radius: 5px;
+    border: solid blue 5px;
+}
